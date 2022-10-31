@@ -7,8 +7,9 @@ To Run Benchmarks:
 
 
 To add tooling for autogenerating 'manual' mappings:
+Can see existing required tools in dotnet-tools.json (inside the root/.config folder)
 
-1) Open developer console - should be pointing to the project's directory
+1) Open developer console - should be pointing to the solution's directory
 2) Run: dotnet new tool-manifest
 3) Run: dotnet tool install Mapster.Tool
 4) Modify Project with https://github.com/MapsterMapper/Mapster/wiki/Mapster.Tool
