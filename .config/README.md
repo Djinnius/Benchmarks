@@ -43,3 +43,7 @@ To install Microsoft Tye, run:
 **NOTE:** an error will display during prerelease and output latest version available, specify the latest version in the '--version' option to install, e.g.
 
 `dotnet tool install Microsoft.Tye --version "0.10.0-alpha.21420.1"`
+
+To install Mapster tools, run:
+
+`dotnet tool install Mapster.Tool`
