@@ -59,7 +59,7 @@ public class SerialisationBenchmarks
         }
     }
 
-    [Benchmark]
+    [Benchmark(Baseline = true)]
     [Arguments(10)]
     [Arguments(100)]
     [Arguments(1_000)]

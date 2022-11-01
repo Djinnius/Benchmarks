@@ -94,9 +94,9 @@ public class MappingBenchmarks
         return config;
     }
 
-    #endregion 
+    #endregion
 
-    [Benchmark]
+    [Benchmark(Baseline = true)]
     public ProductDto ManualMap() => MappingSamples.ManualMapSample(_product);
 
     [Benchmark]
