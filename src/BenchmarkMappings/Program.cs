@@ -1,13 +1,4 @@
 ﻿using BenchmarkDotNet.Running;
-using System;
+using BenchmarkMappings;
 
-namespace BenchmarkMappings
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            BenchmarkRunner.Run<MappingBenchmarks>();
-        }
-    }
-}
+BenchmarkRunner.Run<MappingBenchmarks>();
