@@ -4,14 +4,11 @@ using BenchmarkDotNet.Order;
 
 namespace BenchmarkIteration;
 
+//[RPlotExporter]
 [MemoryDiagnoser, Orderer(SummaryOrderPolicy.FastestToSlowest)]
 public class IteratorBenchmarks
 {
     private static readonly Random _random = new Random(12345);
-
-    [Params(100, 100_000, 1_000_000)]
-    public int Size { get; set; }
-
     private List<int> _items = null!;
 
     [GlobalSetup]
@@ -19,6 +16,9 @@ public class IteratorBenchmarks
     {
         _items = Enumerable.Range(0, Size).Select(x => _random.Next()).ToList();
     }
+
+    [Params(100, 100_000, 1_000_000)]
+    public int Size { get; set; }
 
     [Benchmark(Baseline = true)]
     public void For()

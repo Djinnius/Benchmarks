@@ -20,9 +20,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BenchmarkSerialisation", "src\BenchmarkSerialisation\BenchmarkSerialisation.csproj", "{EE86D567-C7C1-429E-9F33-019403B60D5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkPlainVsRecordStruct", "src\BenchmarkPlainVsRecordStruct\BenchmarkPlainVsRecordStruct.csproj", "{523814E3-8578-46C6-A482-296CD89FD1A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BenchmarkPlainVsRecordStruct", "src\BenchmarkPlainVsRecordStruct\BenchmarkPlainVsRecordStruct.csproj", "{523814E3-8578-46C6-A482-296CD89FD1A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkIteration", "src\BenchmarkIteration\BenchmarkIteration.csproj", "{1E075583-DB80-40DB-8992-F0D787685B2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BenchmarkIteration", "src\BenchmarkIteration\BenchmarkIteration.csproj", "{1E075583-DB80-40DB-8992-F0D787685B2B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BenchmarkStringConcatenation", "src\BenchmarkStringConcatenation\BenchmarkStringConcatenation.csproj", "{0F1E5D5E-9AE9-45E3-A0C5-472B7B4B1CFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -46,6 +48,10 @@ Global
 		{1E075583-DB80-40DB-8992-F0D787685B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E075583-DB80-40DB-8992-F0D787685B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E075583-DB80-40DB-8992-F0D787685B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1E5D5E-9AE9-45E3-A0C5-472B7B4B1CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1E5D5E-9AE9-45E3-A0C5-472B7B4B1CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1E5D5E-9AE9-45E3-A0C5-472B7B4B1CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1E5D5E-9AE9-45E3-A0C5-472B7B4B1CFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

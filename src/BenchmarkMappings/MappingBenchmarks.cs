@@ -11,6 +11,7 @@ using ExpMapper = ExpressMapper;
 
 namespace BenchmarkMappings;
 
+//[RPlotExporter]
 [MemoryDiagnoser, Orderer(SummaryOrderPolicy.FastestToSlowest)]
 public class MappingBenchmarks
 {

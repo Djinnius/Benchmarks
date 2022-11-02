@@ -6,6 +6,7 @@ using Bogus;
 
 namespace BenchmarkSerialisation;
 
+//[RPlotExporter]
 [MemoryDiagnoser, Orderer(SummaryOrderPolicy.FastestToSlowest)]
 public class SerialisationBenchmarks
 {

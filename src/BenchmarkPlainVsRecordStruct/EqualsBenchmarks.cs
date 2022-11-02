@@ -4,6 +4,7 @@ using BenchmarkPlainVsRecordStruct.Structs;
 
 namespace BenchmarkPlainVsRecordStruct;
 
+//[RPlotExporter]
 [MemoryDiagnoser, Orderer(SummaryOrderPolicy.FastestToSlowest)]
 public class EqualsBenchmarks
 {
