@@ -3,8 +3,6 @@ using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Order;
 using BenchmarkSerialisation.Dtos;
 using Bogus;
-using ProtoBuf;
-using ProtoBuf.Meta;
 
 namespace BenchmarkSerialisation;
 
