@@ -9,10 +9,7 @@ namespace BenchmarkSerialisation;
 [MemoryDiagnoser, Orderer(SummaryOrderPolicy.FastestToSlowest)]
 public class SerialisationBenchmarks
 {
-    AddressBook _addressBook_10 = null!;
-    AddressBook _addressBook_100 = null!;
-    AddressBook _addressBook_1_000 = null!;
-    AddressBook _addressBook_10_000 = null!;
+    AddressBook _addressBook = null!;
 
     [GlobalSetup]
     public void SetupData()
@@ -29,85 +26,26 @@ public class SerialisationBenchmarks
             .RuleFor(x => x.Age, f => f.Random.Int(10, 90))
             .RuleFor(x => x.Phones, f => phoneFaker.Generate(3));
 
-        _addressBook_10 = new AddressBook { Persons = personFaker.Generate(10) };
-        _addressBook_100 = new AddressBook { Persons = personFaker.Generate(100) };
-        _addressBook_1_000 = new AddressBook { Persons = personFaker.Generate(1_000) };
-        _addressBook_10_000 = new AddressBook { Persons = personFaker.Generate(10_000) };
+        _addressBook = new AddressBook { Persons = personFaker.Generate(Size) };
     }
 
+    [Params(10, 100, 1_000, 10_000)]
+    public int Size { get; set; }
+
     [Benchmark]
-    [Arguments(10)]
-    [Arguments(100)]
-    [Arguments(1_000)]
-    [Arguments(10_000)]
-    public string SystemTextJsonSerialise(int count)
+    public string SystemTextJsonSerialise()
     {
-        switch (count)
-        {
-            case 10:
-                return SerialisationSamples.SerialiseWithSystemTextJson(_addressBook_10);
-            case 100:
-                return SerialisationSamples.SerialiseWithSystemTextJson(_addressBook_100);
-            case 1_000:
-                return SerialisationSamples.SerialiseWithSystemTextJson(_addressBook_1_000);
-            case 10_000:
-                return SerialisationSamples.SerialiseWithSystemTextJson(_addressBook_10_000);
-            default:
-                return string.Empty;
-        }
+        return SerialisationSamples.SerialiseWithSystemTextJson(_addressBook);
     }
 
     [Benchmark(Baseline = true)]
-    [Arguments(10)]
-    [Arguments(100)]
-    [Arguments(1_000)]
-    [Arguments(10_000)]
-    public string NewtonsoftJsonSerialise(int count)
-    {
-        switch (count)
-        {
-            case 10:
-                return SerialisationSamples.SerialiseWithNewtonsoftJson(_addressBook_10);
-            case 100:
-                return SerialisationSamples.SerialiseWithNewtonsoftJson(_addressBook_100);
-            case 1_000:
-                return SerialisationSamples.SerialiseWithNewtonsoftJson(_addressBook_1_000);
-            case 10_000:
-                return SerialisationSamples.SerialiseWithNewtonsoftJson(_addressBook_10_000);
-            default:
-                return string.Empty;
-        }
-    }
+    public string NewtonsoftJsonSerialise() 
+        => SerialisationSamples.SerialiseWithNewtonsoftJson(_addressBook);
 
     [Benchmark]
-    [Arguments(10)]
-    [Arguments(100)]
-    [Arguments(1_000)]
-    [Arguments(10_000)]
-    public void ProtobufNetSerialise(int count)
+    public void ProtobufNetSerialise()
     {
-        MemoryStream stream;
-
-        switch (count)
-        {
-            case 10:
-                stream = SerialisationSamples.SerialiseWithProtobufNet(_addressBook_10);
-                stream.Dispose();
-                return;
-            case 100:
-                stream = SerialisationSamples.SerialiseWithProtobufNet(_addressBook_100);
-                stream.Dispose();
-                return;
-            case 1_000:
-                stream = SerialisationSamples.SerialiseWithProtobufNet(_addressBook_1_000);
-                stream.Dispose();
-                return;
-            case 10_000:
-                stream = SerialisationSamples.SerialiseWithProtobufNet(_addressBook_10_000);
-                stream.Dispose();
-                return;
-            default:
-                return;
-        }
+        var stream = SerialisationSamples.SerialiseWithProtobufNet(_addressBook);
+        stream.Dispose();
     }
 }
