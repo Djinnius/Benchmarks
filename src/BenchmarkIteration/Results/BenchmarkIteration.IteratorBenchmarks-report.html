@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>BenchmarkIteration.IteratorBenchmarks-20221116-184646</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.13.2, OS=Windows 11 (10.0.22621.819)
+12th Gen Intel Core i9-12900K, 1 CPU, 24 logical and 16 physical cores
+.NET SDK=6.0.402
+  [Host]     : .NET 6.0.10 (6.0.1022.47605), X64 RyuJIT AVX2
+  DefaultJob : .NET 6.0.10 (6.0.1022.47605), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>    Method</th><th>Size</th><th>      Mean</th><th>    Error</th><th>   StdDev</th><th>    Median</th><th>Ratio</th><th>RatioSD</th><th>Gen0</th><th>Allocated</th><th>Alloc Ratio</th>
+</tr>
+</thead><tbody><tr><td>For</td><td>10</td><td>2.950 ns</td><td>0.0218 ns</td><td>0.0204 ns</td><td>2.947 ns</td><td>1.00</td><td>0.00</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach_Span</td><td>10</td><td>3.127 ns</td><td>0.0156 ns</td><td>0.0145 ns</td><td>3.121 ns</td><td>1.06</td><td>0.01</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>For_Span</td><td>10</td><td>3.254 ns</td><td>0.0131 ns</td><td>0.0116 ns</td><td>3.253 ns</td><td>1.10</td><td>0.01</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach</td><td>10</td><td>5.304 ns</td><td>0.0313 ns</td><td>0.0292 ns</td><td>5.316 ns</td><td>1.80</td><td>0.01</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach_Linq</td><td>10</td><td>13.123 ns</td><td>0.0892 ns</td><td>0.0834 ns</td><td>13.163 ns</td><td>4.45</td><td>0.04</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>Parallel_ForEach</td><td>10</td><td>1,924.519 ns</td><td>33.4075 ns</td><td>31.2494 ns</td><td>1,907.012 ns</td><td>652.48</td><td>11.20</td><td>0.1469</td><td>2296 B</td><td>NA</td>
+</tr><tr><td>Parallel_Linq</td><td>10</td><td>18,579.844 ns</td><td>91.8663 ns</td><td>85.9318 ns</td><td>18,581.715 ns</td><td>6,299.23</td><td>51.34</td><td>0.5798</td><td>9080 B</td><td>NA</td>
+</tr><tr><td>ForEach_Span</td><td>100</td><td>27.370 ns</td><td>0.1504 ns</td><td>0.1333 ns</td><td>27.382 ns</td><td>0.67</td><td>0.00</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>For_Span</td><td>100</td><td>31.539 ns</td><td>0.0883 ns</td><td>0.0826 ns</td><td>31.543 ns</td><td>0.77</td><td>0.00</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>For</td><td>100</td><td>40.865 ns</td><td>0.1208 ns</td><td>0.1008 ns</td><td>40.880 ns</td><td>1.00</td><td>0.00</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach</td><td>100</td><td>52.092 ns</td><td>0.1902 ns</td><td>0.1779 ns</td><td>52.069 ns</td><td>1.27</td><td>0.01</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach_Linq</td><td>100</td><td>128.193 ns</td><td>0.4236 ns</td><td>0.3962 ns</td><td>128.100 ns</td><td>3.14</td><td>0.01</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>Parallel_ForEach</td><td>100</td><td>6,411.532 ns</td><td>82.0115 ns</td><td>76.7136 ns</td><td>6,375.463 ns</td><td>156.37</td><td>1.51</td><td>0.2594</td><td>4030 B</td><td>NA</td>
+</tr><tr><td>Parallel_Linq</td><td>100</td><td>18,417.781 ns</td><td>100.0008 ns</td><td>93.5408 ns</td><td>18,388.776 ns</td><td>450.97</td><td>2.47</td><td>0.5798</td><td>9080 B</td><td>NA</td>
+</tr><tr><td>ForEach_Span</td><td>1000</td><td>210.021 ns</td><td>1.1314 ns</td><td>1.0583 ns</td><td>210.108 ns</td><td>0.67</td><td>0.00</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>For_Span</td><td>1000</td><td>212.488 ns</td><td>0.9424 ns</td><td>0.8815 ns</td><td>212.402 ns</td><td>0.68</td><td>0.00</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>For</td><td>1000</td><td>312.764 ns</td><td>0.8650 ns</td><td>0.8092 ns</td><td>313.106 ns</td><td>1.00</td><td>0.00</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach</td><td>1000</td><td>416.293 ns</td><td>1.3162 ns</td><td>1.2312 ns</td><td>416.654 ns</td><td>1.33</td><td>0.00</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach_Linq</td><td>1000</td><td>1,227.173 ns</td><td>5.0625 ns</td><td>4.7354 ns</td><td>1,229.088 ns</td><td>3.92</td><td>0.02</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>Parallel_ForEach</td><td>1000</td><td>14,055.285 ns</td><td>128.7855 ns</td><td>120.4661 ns</td><td>14,071.825 ns</td><td>44.94</td><td>0.42</td><td>0.3510</td><td>5418 B</td><td>NA</td>
+</tr><tr><td>Parallel_Linq</td><td>1000</td><td>18,961.621 ns</td><td>63.5059 ns</td><td>56.2963 ns</td><td>18,956.241 ns</td><td>60.62</td><td>0.20</td><td>0.5798</td><td>9080 B</td><td>NA</td>
+</tr><tr><td>For_Span</td><td>10000</td><td>2,031.718 ns</td><td>9.5239 ns</td><td>8.9087 ns</td><td>2,030.445 ns</td><td>0.67</td><td>0.00</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach_Span</td><td>10000</td><td>2,035.692 ns</td><td>13.1655 ns</td><td>12.3150 ns</td><td>2,037.048 ns</td><td>0.67</td><td>0.01</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>For</td><td>10000</td><td>3,039.295 ns</td><td>12.8688 ns</td><td>12.0374 ns</td><td>3,039.617 ns</td><td>1.00</td><td>0.00</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach</td><td>10000</td><td>4,074.281 ns</td><td>8.4687 ns</td><td>7.5072 ns</td><td>4,074.698 ns</td><td>1.34</td><td>0.01</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach_Linq</td><td>10000</td><td>12,160.588 ns</td><td>61.3928 ns</td><td>57.4269 ns</td><td>12,173.096 ns</td><td>4.00</td><td>0.03</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>Parallel_Linq</td><td>10000</td><td>20,283.114 ns</td><td>91.8103 ns</td><td>85.8794 ns</td><td>20,277.457 ns</td><td>6.67</td><td>0.04</td><td>0.5798</td><td>9080 B</td><td>NA</td>
+</tr><tr><td>Parallel_ForEach</td><td>10000</td><td>27,296.803 ns</td><td>128.3040 ns</td><td>120.0156 ns</td><td>27,343.010 ns</td><td>8.98</td><td>0.05</td><td>0.3967</td><td>6509 B</td><td>NA</td>
+</tr><tr><td>For_Span</td><td>100000</td><td>20,253.256 ns</td><td>86.8612 ns</td><td>77.0002 ns</td><td>20,246.857 ns</td><td>0.67</td><td>0.00</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach_Span</td><td>100000</td><td>20,307.445 ns</td><td>84.9596 ns</td><td>75.3144 ns</td><td>20,286.664 ns</td><td>0.67</td><td>0.00</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>For</td><td>100000</td><td>30,370.951 ns</td><td>91.8717 ns</td><td>85.9368 ns</td><td>30,373.384 ns</td><td>1.00</td><td>0.00</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach</td><td>100000</td><td>40,609.622 ns</td><td>229.0277 ns</td><td>214.2327 ns</td><td>40,640.143 ns</td><td>1.34</td><td>0.01</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>Parallel_ForEach</td><td>100000</td><td>56,926.118 ns</td><td>487.4980 ns</td><td>432.1542 ns</td><td>56,782.599 ns</td><td>1.87</td><td>0.02</td><td>0.3662</td><td>6445 B</td><td>NA</td>
+</tr><tr><td>Parallel_Linq</td><td>100000</td><td>102,844.347 ns</td><td>2,046.9429 ns</td><td>3,475.8644 ns</td><td>103,063.672 ns</td><td>3.32</td><td>0.12</td><td>0.4883</td><td>9141 B</td><td>NA</td>
+</tr><tr><td>ForEach_Linq</td><td>100000</td><td>121,100.048 ns</td><td>382.8184 ns</td><td>358.0886 ns</td><td>121,127.283 ns</td><td>3.99</td><td>0.01</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach_Span</td><td>1000000</td><td>294,415.404 ns</td><td>9,219.5359 ns</td><td>27,184.0096 ns</td><td>303,732.935 ns</td><td>0.94</td><td>0.11</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>For</td><td>1000000</td><td>302,833.791 ns</td><td>788.8228 ns</td><td>737.8653 ns</td><td>302,737.866 ns</td><td>1.00</td><td>0.00</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>Parallel_ForEach</td><td>1000000</td><td>364,568.229 ns</td><td>6,941.9359 ns</td><td>7,128.8571 ns</td><td>365,854.565 ns</td><td>1.20</td><td>0.02</td><td>-</td><td>6469 B</td><td>NA</td>
+</tr><tr><td>For_Span</td><td>1000000</td><td>364,928.219 ns</td><td>18,080.2884 ns</td><td>53,310.1383 ns</td><td>383,236.609 ns</td><td>1.21</td><td>0.20</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach</td><td>1000000</td><td>405,841.532 ns</td><td>1,758.6955 ns</td><td>1,645.0849 ns</td><td>405,647.583 ns</td><td>1.34</td><td>0.01</td><td>-</td><td>-</td><td>NA</td>
+</tr><tr><td>ForEach_Linq</td><td>1000000</td><td>1,220,224.069 ns</td><td>6,707.0420 ns</td><td>6,273.7712 ns</td><td>1,220,414.746 ns</td><td>4.03</td><td>0.02</td><td>-</td><td>1 B</td><td>NA</td>
+</tr><tr><td>Parallel_Linq</td><td>1000000</td><td>1,320,338.946 ns</td><td>220,828.0024 ns</td><td>651,116.3474 ns</td><td>1,445,257.959 ns</td><td>2.02</td><td>0.08</td><td>-</td><td>9139 B</td><td>NA</td>
+</tr></tbody></table>
+</body>
+</html>

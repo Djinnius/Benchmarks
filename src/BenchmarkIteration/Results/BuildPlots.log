@@ -1,0 +1,959 @@
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-boxplot.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-barplot.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-Size=10-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-Size=10-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-Size=100-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-Size=100-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-Size=1000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-Size=1000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-Size=10000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-Size=10000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-Size=100000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-Size=100000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-Size=1000000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-Size=1000000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=10-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=10-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=10-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=10-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=100-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=100-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=100-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=100-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=1000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=1000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=1000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=1000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=10000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=10000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=10000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=10000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=100000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=100000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=100000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=100000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=1000000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=1000000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=1000000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-DefaultJob Size=1000000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-Size=10-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-Size=10-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-Size=100-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-Size=100-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-Size=1000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-Size=1000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-Size=10000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-Size=10000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-Size=100000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-Size=100000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-Size=1000000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-Size=1000000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=10-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=10-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=10-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=10-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=100-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=100-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=100-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=100-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=1000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=1000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=1000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=1000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=10000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=10000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=10000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=10000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=100000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=100000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=100000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=100000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=1000000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=1000000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=1000000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-DefaultJob Size=1000000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Span-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-Size=10-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-Size=10-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-Size=100-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-Size=100-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-Size=1000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-Size=1000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-Size=10000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-Size=10000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-Size=100000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-Size=100000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-Size=1000000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-Size=1000000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=10-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=10-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=10-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=10-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=100-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=100-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=100-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=100-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=1000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=1000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=1000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=1000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=10000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=10000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=10000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=10000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=100000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=100000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=100000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=100000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=1000000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=1000000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=1000000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-DefaultJob Size=1000000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-For_Span-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-Size=10-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-Size=10-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-Size=100-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-Size=100-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-Size=1000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-Size=1000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-Size=10000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-Size=10000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-Size=100000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-Size=100000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-Size=1000000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-Size=1000000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=10-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=10-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=10-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=10-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=100-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=100-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=100-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=100-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=1000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=1000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=1000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=1000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=10000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=10000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=10000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=10000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=100000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=100000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=100000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=100000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=1000000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=1000000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=1000000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-DefaultJob Size=1000000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-Size=10-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-Size=10-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-Size=100-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-Size=100-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-Size=1000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-Size=1000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-Size=10000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-Size=10000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-Size=100000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-Size=100000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-Size=1000000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-Size=1000000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=10-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=10-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=10-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=10-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=100-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=100-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=100-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=100-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=1000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=1000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=1000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=1000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=10000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=10000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=10000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=10000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=100000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=100000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=100000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=100000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=1000000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=1000000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=1000000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-DefaultJob Size=1000000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-ForEach_Linq-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-Size=10-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-Size=10-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-Size=100-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-Size=100-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-Size=1000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-Size=1000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-Size=10000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-Size=10000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-Size=100000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-Size=100000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-Size=1000000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-Size=1000000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=10-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=10-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=10-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=10-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=100-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=100-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=100-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=100-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=1000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=1000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=1000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=1000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=10000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=10000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=10000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=10000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=100000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=100000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=100000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=100000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=1000000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=1000000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=1000000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-DefaultJob Size=1000000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_ForEach-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-Size=10-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-Size=10-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-Size=100-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-Size=100-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-Size=1000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-Size=1000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-Size=10000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-Size=10000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-Size=100000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-Size=100000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-Size=1000000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-Size=1000000-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=10-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=10-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=10-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=10-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=100-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=100-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=100-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=100-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=1000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=1000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=1000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=1000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=10000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=10000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=10000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=10000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=100000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=100000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=100000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=100000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=1000000-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=1000000-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=1000000-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-DefaultJob Size=1000000-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkIteration\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkIteration.IteratorBenchmarks-Parallel_Linq-cummean.png ***
+------------------------------
+Attaching package: 'dplyr'
+The following objects are masked from 'package:stats':
+    filter, lag
+The following objects are masked from 'package:base':
+    intersect, setdiff, setequal, union
+gdata: Unable to locate valid perl interpreter
+gdata: 
+gdata: read.xls() will be unable to read Excel XLS and XLSX files
+gdata: unless the 'perl=' argument is used to specify the location of a
+gdata: valid perl intrpreter.
+gdata: 
+gdata: (To avoid display of this message in the future, please ensure
+gdata: perl is installed and available on the executable search path.)
+gdata: Unable to load perl libaries needed by read.xls()
+gdata: to support 'XLX' (Excel 97-2004) files.
+gdata: Unable to load perl libaries needed by read.xls()
+gdata: to support 'XLSX' (Excel 2007+) files.
+gdata: Run the function 'installXLSXsupport()'
+gdata: to automatically download and install the perl
+gdata: libaries needed to support Excel XLS and XLSX formats.
+Attaching package: 'gdata'
+The following objects are masked from 'package:dplyr':
+    combine, first, last
+The following object is masked from 'package:stats':
+    nobs
+The following object is masked from 'package:utils':
+    object.size
+The following object is masked from 'package:base':
+    startsWith
+Attaching package: 'gridExtra'
+The following object is masked from 'package:gdata':
+    combine
+The following object is masked from 'package:dplyr':
+    combine
+R.devices v2.17.1 (2022-06-21 08:00:02 UTC) successfully loaded. See ?R.devices for help.
+`summarise()` has grouped output by 'Target_Method'. You can override using the
+`.groups` argument.
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Warning message:
+`group_by_()` was deprecated in dplyr 0.7.0.
+Ôä╣ Please use `group_by()` instead.
+Ôä╣ See vignette('programming') for more help
+Ôä╣ The deprecated feature was likely used in the dplyr package.
+  Please report the issue at <https://github.com/tidyverse/dplyr/issues>. 
