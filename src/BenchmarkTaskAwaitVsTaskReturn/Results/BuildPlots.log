@@ -1,0 +1,119 @@
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-boxplot.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-barplot.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-ReturnTask-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-ReturnTask-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-ReturnTask-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-ReturnTask-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-ReturnTask-DefaultJob-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-ReturnTask-DefaultJob-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-ReturnTask-DefaultJob-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-ReturnTask-DefaultJob-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-ReturnTask-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-ReturnTask-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-ReturnTask-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-AwaitTask-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-AwaitTask-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-AwaitTask-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-AwaitTask-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-AwaitTask-DefaultJob-timeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-AwaitTask-DefaultJob-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-AwaitTask-DefaultJob-cummean.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-AwaitTask-DefaultJob-density.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-AwaitTask-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-AwaitTask-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\jonat\source\repos\Benchmarks\src\BenchmarkTaskAwaitVsTaskReturn\bin\Release\net6.0\BenchmarkDotNet.Artifacts\results\BenchmarkTaskAwaitVsTaskReturn.TaskBenchmarks-AwaitTask-cummean.png ***
+------------------------------
+Attaching package: 'dplyr'
+The following objects are masked from 'package:stats':
+    filter, lag
+The following objects are masked from 'package:base':
+    intersect, setdiff, setequal, union
+gdata: Unable to locate valid perl interpreter
+gdata: 
+gdata: read.xls() will be unable to read Excel XLS and XLSX files
+gdata: unless the 'perl=' argument is used to specify the location of a
+gdata: valid perl intrpreter.
+gdata: 
+gdata: (To avoid display of this message in the future, please ensure
+gdata: perl is installed and available on the executable search path.)
+gdata: Unable to load perl libaries needed by read.xls()
+gdata: to support 'XLX' (Excel 97-2004) files.
+gdata: Unable to load perl libaries needed by read.xls()
+gdata: to support 'XLSX' (Excel 2007+) files.
+gdata: Run the function 'installXLSXsupport()'
+gdata: to automatically download and install the perl
+gdata: libaries needed to support Excel XLS and XLSX formats.
+Attaching package: 'gdata'
+The following objects are masked from 'package:dplyr':
+    combine, first, last
+The following object is masked from 'package:stats':
+    nobs
+The following object is masked from 'package:utils':
+    object.size
+The following object is masked from 'package:base':
+    startsWith
+Attaching package: 'gridExtra'
+The following object is masked from 'package:gdata':
+    combine
+The following object is masked from 'package:dplyr':
+    combine
+R.devices v2.17.1 (2022-06-21 08:00:02 UTC) successfully loaded. See ?R.devices for help.
+`summarise()` has grouped output by 'Target_Method'. You can override using the
+`.groups` argument.
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Warning message:
+`group_by_()` was deprecated in dplyr 0.7.0.
+Ôä╣ Please use `group_by()` instead.
+Ôä╣ See vignette('programming') for more help
+Ôä╣ The deprecated feature was likely used in the dplyr package.
+  Please report the issue at <https://github.com/tidyverse/dplyr/issues>. 
