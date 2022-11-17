@@ -6,7 +6,7 @@ using Bogus;
 
 namespace BenchmarkStringConcatenation;
 
-//[RPlotExporter]
+[RPlotExporter]
 [MemoryDiagnoser, Orderer(SummaryOrderPolicy.FastestToSlowest)]
 public class StringConcatenationBenchmark
 {
@@ -21,7 +21,7 @@ public class StringConcatenationBenchmark
 
 
 
-    [Params(2, 4, 8, 10, 20, 50, 100/*, 1000, 10_000*/)]
+    [Params(2, 4, 6, 8, 10, 12,14,16,18, 20,22,24,26,28,30,32,34,36,38,40,42,44,46,48, 50/*, 100, 1000, 10_000*/)]
     public int Size { get; set; }
 
 
@@ -84,10 +84,10 @@ public class StringConcatenationBenchmark
         return string.Concat(_items);
     }
 
-    [Benchmark]
-    public string Concatenate_ByLinqAggregate()
-    {
-        // uses string interpolation internally here
-        return _items.Aggregate((partialPhrase, word) => $"{partialPhrase}{word}");
-    }
+    //[Benchmark]
+    //public string Concatenate_ByLinqAggregate()
+    //{
+    //    // uses string interpolation internally here
+    //    return _items.Aggregate((partialPhrase, word) => $"{partialPhrase}{word}");
+    //}
 }
